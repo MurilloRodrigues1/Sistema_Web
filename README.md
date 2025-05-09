@@ -41,6 +41,12 @@ ___
 - JUMPERS
 - RESISTOR
 - RASP BERRY
+
+## REGISTROS
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/a61f744a-90a6-4d7f-b104-80e9eef0f54e" width="300"/>
+</p>
+
 ___
 ## CÓDIGOS PARA O PROJETO
 
