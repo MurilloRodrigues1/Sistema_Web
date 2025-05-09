@@ -10,8 +10,8 @@
 > _Murillo Henrique de Oliveira Rodrigues - N°26_  
 >
 
-> *RASCUNHO NOTION: https://lizard-tangerine-a45.notion.site/SISTEMA-WEB-1ee6cd955f7a80f6bf8ff024739c9c27?pvs=4*  
-> *INTERFACE FIGMA: https://www.figma.com/design/UVNVsQCscNTI7k1Csrbe3D/Untitled?node-id=0-1&t=nj8AfGZnQ008U5vX-1*
+> *RASCUNHO NOTION: https://lizard-tangerine-a45.notion.site/SISTEMA-WEB-1ee6cd955f7a80f6bf8ff024739c9c27?pvs=4*    
+> *INTERFACE FIGMA: https://www.figma.com/design/UVNVsQCscNTI7k1Csrbe3D/Untitled?node-id=0-1&t=nj8AfGZnQ008U5vX-1*  
 ___
 ### DAILY
 _Nosso projeto consiste no desenvolvimento de um sistema web com o objetivo de monitorar um broker, facilitando o acompanhamento e a visualização das informações em tempo real. A aplicação está sendo construída utilizando Python como linguagem principal, com o framework Flask para o desenvolvimento da interface web e da lógica de backend. A proposta é garantir uma solução leve, funcional e acessível via navegador, permitindo uma melhor gestão e análise dos dados fornecidos pelo broker._  
