@@ -22,8 +22,9 @@ _Iremos fazer o monitoramento de um LDR, botão e um Led, porque pensamos em sai
   <img src="https://github.com/user-attachments/assets/7c48af9d-ef10-4fef-b25f-adedc99b359f" width="500"/>
   <img src="https://github.com/user-attachments/assets/127da00f-8608-4e67-8434-7f57798098c4" width="400"/>
 </p>
-_Fizemos uma interface boa, porém com um unico objetivo, que era monitorar as mensagens enviadas e recebidas de um dispositivo para o outro, a ideia do design do nosso interface é deixar uma fácil interpretação para quem precisar ler.  
+_Fizemos uma interface boa, porém com um unico objetivo, que era monitorar as mensagens enviadas e recebidas de um dispositivo para o outro, a ideia do design do nosso interface é deixar uma fácil interpretação para quem precisar ler.             
 ___
+
 O unico comando que nós usamos para "ativar" o MQTT foi ver se ele estava ativado, com isso o comando foi:
 
 ```
